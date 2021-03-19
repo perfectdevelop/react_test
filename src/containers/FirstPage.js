@@ -70,7 +70,7 @@ class FirstPage extends React.Component {
 
     render() {
         return (
-            <>  
+            <> 
                 <Modal />
                 <Header />
                 <Container>
